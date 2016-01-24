@@ -1,2 +1,2 @@
 # Project-Euler
-Solutions to project euler
+Previous useful code.
